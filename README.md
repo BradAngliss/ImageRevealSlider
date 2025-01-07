@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee844345-22d1-4b1f-8a07-a920d254a6a9" width="350" height="350"/>
+  <img src="https://github.com/user-attachments/assets/442902f8-f680-4523-a7c5-83ebef087d16" width="350" height="350"/>
 </p>
 
 # Image Reveal Slider
