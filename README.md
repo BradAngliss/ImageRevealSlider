@@ -14,4 +14,4 @@ This is a demo Swift playground to demonstrate the effect of layering content on
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BradAngliss/PixelQuiz/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BradAngliss/ImageRevealSlider/blob/master/LICENSE) file for details
